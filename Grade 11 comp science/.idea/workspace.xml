@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbc930fd-2c6a-4cb4-886c-753da7b3e482" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Grade 11 comp science" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tq0jJq3DUvqHGaEi6f4CL7Zsht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python Game/Computer_science_culminating_Snake - Pasqua, Marco.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\PycharmProjects\Grade 11 comp science\Python Game" />
+      <recent name="C:\Users\marco\PycharmProjects\Grade 11 comp science\Tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\PycharmProjects\Grade 11 comp science\Tests" />
+      <recent name="C:\Users\marco\PycharmProjects\Grade 11 comp science\Python Game" />
+      <recent name="C:\Users\marco\PycharmProjects\Grade 11 comp science" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Pasqua_Option2">
+    <configuration name="Computer_science_culminaating_snake-Pasqua, Marco.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Grade 11 comp science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game/Snake_Pasqua, Marco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pasqua_Option2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grade 11 comp science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game/Pasqua_Option2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pasqua_Option3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grade 11 comp science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game/Pasqua_Option3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grade 11 comp science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake_help" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Grade 11 comp science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game/snake_help.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pasqua_Option2" />
+        <item itemvalue="Python.Pasqua_Option3" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.Computer_science_culminaating_snake-Pasqua, Marco.py" />
+        <item itemvalue="Python.snake_help" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbc930fd-2c6a-4cb4-886c-753da7b3e482" name="Default Changelist" comment="" />
+      <created>1574172452367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574172452367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="39" key="#Snake_Pasqua,_Marco" timestamp="1579737363953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="880" y="39" key="#Snake_Pasqua,_Marco/0.0.1536.824@0.0.1536.824" timestamp="1579737363953" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579306119218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579306119218" />
+    <state x="498" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576083747821">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1576083747821" />
+    <state x="549" y="177" key="FileChooserDialogImpl" timestamp="1579737114199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579737114199" />
+    <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1575900238252" />
+    <state width="746" height="175" key="GridCell.Tab.0.bottom" timestamp="1579797152756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579797152756" />
+    <state width="1515" height="166" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578323000706" />
+    <state width="746" height="175" key="GridCell.Tab.0.center" timestamp="1579797152755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579797152755" />
+    <state width="1515" height="166" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578323000706" />
+    <state width="746" height="175" key="GridCell.Tab.0.left" timestamp="1579797152755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579797152755" />
+    <state width="1515" height="166" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578323000706" />
+    <state width="746" height="175" key="GridCell.Tab.0.right" timestamp="1579797152755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579797152755" />
+    <state width="1515" height="166" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578323000706" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1579142052153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579142052153" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1579142052153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579142052153" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1579142052153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579142052153" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1579142052153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579142052153" />
+    <state x="26" y="71" width="486" height="281" key="com.intellij.ide.util.TipDialog" timestamp="1579784439388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="26" y="71" width="486" height="281" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579784439388" />
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578599132029" />
+    <state x="463" y="37" width="609" height="789" key="find.popup" timestamp="1576071106226">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="463" y="37" width="609" height="789" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1576071106226" />
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1579015987181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1579015987181" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579793664228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579793664228" />
+  </component>
+</project>
